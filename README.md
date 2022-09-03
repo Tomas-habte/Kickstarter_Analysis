@@ -25,4 +25,4 @@ A challenge I faced was using the COUNTIFS formula to get the number of projects
 
 
 **Possible charts/graphs that could be created**
-- Chart on average donation against project success/failure rate to determine if there is a relationship between pricing and success/failure rates of projects. 
+- Chart on average pledge against project success/failure rate to determine if there is a relationship between pricing and success/failure rates of projects. 
